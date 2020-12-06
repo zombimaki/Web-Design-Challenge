@@ -135,5 +135,24 @@ h3 {
   box-sizing: border-box;  
 }
 
+/* Media */
+@media (max-width: 900px) {
 
+.navbar.bg-light{
+  background-color: #00008b!important;    
+}
 
+.navbar-collapse{
+  background-color: #f8f9fa;
+}
+.navbar{
+  padding:inherit;
+}
+    
+#compare_graph {
+  width:100;
+  height: 100;
+  padding: 0px;
+}
+
+}
