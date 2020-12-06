@@ -1,13 +1,13 @@
 
 body {
   font-family: 'Times New Roman', Times, serif; 
-  font-size: 12px;
+  font-size: 15px;
   background-color:rgb(158, 157, 157);
 }
 
 h1 {
     color: #00008b;
-    font-size: 25px;
+    font-size: 30px;
     margin: 0;
     vertical-align: baseline;
     padding-top:5px;
@@ -18,7 +18,7 @@ h1 {
   }
 h2 {
   color: #00008b;
-  font-size: 20px;
+  font-size: 25px;
   margin: 0;
   vertical-align: baseline;
   padding-top:5px;
@@ -30,7 +30,7 @@ h2 {
 
 h3 {
   color: #00008b;
-  font-size: 15px;
+  font-size: 20px;
   margin: 0;
   vertical-align: baseline;
   padding-top:5px;
