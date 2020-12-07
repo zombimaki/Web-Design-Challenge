@@ -91,6 +91,7 @@ h3 {
   padding: 10px;
   margin: auto;
   width: 65% 
+
 }
 
   /* Image Column */
@@ -141,7 +142,7 @@ h3 {
 }
 
 /* Media */
-@media (max-width: 900px) {
+@media (max-width: 720px) {
 
 .navbar-expand-lg{
       background-color: #00008b !important;
@@ -173,6 +174,26 @@ h3 {
   visibility:visible;
   display: inline;
 }
+
+#image_box_column{
+  margin: auto;
+  width: 100%;
+  background: rgb(192, 191, 191);
+  display: block;
+  border-style: solid;
+  border-width: 15px;
+  border-color: rgb(192, 191, 191);
+
+}
+
+#image-main {
+  float: left;
+  padding: 10px;
+  margin: auto;
+  width: 100% 
+
+}
+
 
 }
 
