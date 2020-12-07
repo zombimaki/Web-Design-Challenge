@@ -69,6 +69,10 @@ h3 {
   color: white;
 }
 
+#myTopnav {
+  visibility: hidden;
+  display: none;
+}
 
 /* Main Column */
 
@@ -136,10 +140,14 @@ h3 {
   box-sizing: border-box;  
 }
 
-#myTopnav {
-  visibility: hidden;
-  display: none;
+/* Data */
+
+.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+  background-color: blue;
+  color: white
 }
+
+
 
 /* Media */
 @media (max-width: 720px) {
