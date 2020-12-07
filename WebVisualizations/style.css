@@ -137,6 +137,7 @@ h3 {
 
 #myTopnav {
   visibility: hidden;
+  display: none;
 }
 
 /* Media */
@@ -170,6 +171,7 @@ h3 {
 
 #myTopnav{
   visibility:visible;
+  display: inline;
 }
 
 }
