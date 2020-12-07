@@ -5,6 +5,6 @@ import pandas as pd
 cities_df = pd.read_csv('Resources/cities.csv')
 
 # export the data to html
-cities_df.to_html('data.html', index=False)
+cities_df.to_html('Resources/cities.html', index=False)
 
 
