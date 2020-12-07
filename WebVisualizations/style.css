@@ -143,11 +143,9 @@ h3 {
 /* Data */
 
 .table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
-  background-color: blue;
+  background-color: rgb(77, 77, 214);
   color: white
 }
-
-
 
 /* Media */
 @media (max-width: 720px) {
