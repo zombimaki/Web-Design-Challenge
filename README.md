@@ -10,7 +10,7 @@ In this challenge we create a website with multiple pages to dispaly images of m
 6. Includes a style.css file to apply the appropriate formats including formatting for when the size of the page falls below 900px.
 
 
-[a link](https://zombimaki.github.io/Web-Design-Challenge/WebVisualizations/main.html)
+[Web-Design-Challenge Link](https://zombimaki.github.io/Web-Design-Challenge/WebVisualizations/main.html)
 
 
 
